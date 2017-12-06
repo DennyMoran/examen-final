@@ -10,7 +10,7 @@ and open the template in the editor.
 ul li{
     list-style-type: none;
     display: inline;
-    font-size: 20px;
+    font-size: 18px;
     background: #333;
     padding: 10px;
     border-radius: 10px;
@@ -20,7 +20,7 @@ ul li{
 
 #cabecera{
     font-family: Nexa Bold;
-    font-size: 20px;
+    font-size: 18px;
     text-align: center;
  }
  #menu{
@@ -38,4 +38,21 @@ ul li{
  #pie{
      text-align: center;
      color:black;}
+  
+  form div{
+      margin-top: 0 auto;
+      
+  }
+  form{
+    margin: 0 auto;
+    width: 800px;
+    padding: 1em;
+    border: 2px solid #000;
+    border-radius: 5px;
+    background: white;
+}
+
+form div{
+    margin-top: 1em;
+}
  
